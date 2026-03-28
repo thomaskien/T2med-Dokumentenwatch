@@ -1,12 +1,19 @@
 # T2med Tempwatch für Atril unter XFCE
 
+
 ## Video-Demo
 
-<p>
-  <a href="https://github.com/thomaskien/T2med-Dokumentenwatch/raw/refs/heads/main/2026-03-28%2020-34-56.mkv">
-    ▶ Video ansehen / herunterladen
-  </a>
-</p>
+<video controls preload="metadata" width="100%">
+  <source src="https://github.com/thomaskien/T2med-Dokumentenwatch/raw/refs/heads/main/2026-03-28%2020-34-56.mp4" type="video/mp4">
+  Dein Browser oder GitHub unterstützt die direkte Wiedergabe hier nicht.
+  Bitte öffne das Video direkt:
+  <a href="https://github.com/thomaskien/T2med-Dokumentenwatch/raw/refs/heads/main/2026-03-28%2020-34-56.mp4">Video ansehen / herunterladen</a>
+</video>
+
+▶ **[Video ansehen / herunterladen (MP4)](https://github.com/thomaskien/T2med-Dokumentenwatch/raw/refs/heads/main/2026-03-28%2020-34-56.mp4)**
+
+> Falls die direkte Wiedergabe in der README nicht funktioniert, bitte das MP4 direkt öffnen oder herunterladen.
+
 
 <p><em>Falls das Video im Browser nicht direkt abgespielt wird, bitte lokal öffnen.</em></p>
 

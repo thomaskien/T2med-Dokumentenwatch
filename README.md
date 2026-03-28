@@ -31,7 +31,7 @@ Dabei passiert Folgendes:
 1. eine neue PDF-Datei wird erkannt
 2. die Datei wird automatisch mit **Atril** geöffnet
 3. das Atril-Fenster wird an die konfigurierte Position verschoben und skaliert
-4. das T2med-Fenster wird ebenfalls an die konfigurierte Position gesetzt
+4. das T2med-Fenster wird ebenfalls an die konfigurierte Position gesetzt (ausser es ist maximiert, dann passiert nichts)
 5. der Fokus geht zurück zu T2med
 6. optional wird automatisch `Escape` an T2med gesendet, damit man sofort in die Übersicht zurückkehrt
 

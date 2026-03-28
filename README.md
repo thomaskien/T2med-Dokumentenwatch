@@ -1,7 +1,7 @@
 # T2med Tempwatch für Atril unter XFCE
 
 <video controls preload="metadata" width="100%">
-  <source src="2026-03-28 20-34-56.mkv" type="video/x-matroska">
+  <source src="https://github.com/thomaskien/T2med-Dokumentenwatch/raw/refs/heads/main/2026-03-28%2020-34-56.mkv" type="video/x-matroska">
   Dein Browser unterstützt die eingebettete Wiedergabe von MKV nicht. Die Datei
   <code>2026-03-28 20-34-56.mkv</code> muss im selben Verzeichnis wie diese README liegen.
 </video>

@@ -8,12 +8,13 @@
 
 ## Zielsetzung
 
-Dieses Setup dient dem **besseren Befundstudium** mit T2med auf großen Bildschirmen.
+Dieses Setup dient dem **besseren Befundstudium** mit T2med auf großen Bildschirmen oder **Zweitschirm**
 
 Besonders sinnvoll ist es bei:
 
 - **Monitoren ab 27 Zoll** mit **2560 Pixeln Breite**
 - optimal bei **30 Zoll** mit **2560 × 1600 Pixeln**
+- alternativ: zweiter Monitor
 
 Die Idee ist, dass T2med nach dem Öffnen eines Dokuments im Hauptfenster benutzbar bleibt, während das zugehörige PDF automatisch in **Atril** auf einer definierten Bildschirmfläche erscheint.
 

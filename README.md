@@ -9,6 +9,7 @@
 </p>
 
 <p><em>Falls das Video im Browser nicht direkt abgespielt wird, bitte lokal öffnen.</em></p>
+
 ## Zielsetzung
 
 Dieses Setup dient dem **besseren Befundstudium** mit T2med auf großen Bildschirmen oder **Zweitschirm**

@@ -1,11 +1,14 @@
 # T2med Tempwatch für Atril unter XFCE
 
-<video controls preload="metadata" width="100%">
-  <source src="https://github.com/thomaskien/T2med-Dokumentenwatch/raw/refs/heads/main/2026-03-28%2020-34-56.mkv" type="video/x-matroska">
-  Dein Browser unterstützt die eingebettete Wiedergabe von MKV nicht. Die Datei
-  <code>2026-03-28 20-34-56.mkv</code> muss im selben Verzeichnis wie diese README liegen.
-</video>
+## Video-Demo
 
+<p>
+  <a href="https://github.com/thomaskien/T2med-Dokumentenwatch/raw/refs/heads/main/2026-03-28%2020-34-56.mkv">
+    ▶ Video ansehen / herunterladen
+  </a>
+</p>
+
+<p><em>Falls das Video im Browser nicht direkt abgespielt wird, bitte lokal öffnen.</em></p>
 ## Zielsetzung
 
 Dieses Setup dient dem **besseren Befundstudium** mit T2med auf großen Bildschirmen oder **Zweitschirm**
